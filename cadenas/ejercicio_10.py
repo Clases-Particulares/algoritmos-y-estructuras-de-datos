@@ -1,0 +1,1 @@
+# Formato de título: Escribir una función que convierta una cadena en formato "Título", asegurando que cada palabra comience con mayúscula.

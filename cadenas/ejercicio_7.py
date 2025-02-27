@@ -1,0 +1,1 @@
+# Inversión de cadena: Crear un programa que invierta una cadena sin usar funciones predefinidas como [::-1].
